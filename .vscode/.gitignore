@@ -1,0 +1,17 @@
+# Python 缓存
+__pycache__/
+*.py[cod]
+
+# C++ 编译产物
+*.exe
+*.o
+*.obj
+*.out
+
+# 编辑器私有配置
+.vscode/
+.idea/
+
+# 系统文件
+Thumbs.db
+.DS_Store
